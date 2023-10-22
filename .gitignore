@@ -1,7 +1,6 @@
 __pycache__
 .venv
 .vscode
-instance
 .flaskenv
 *.pyc
 .DS_Store
